@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🚀 Frontend | Python | DevOps  
 
-<!--
-**WATF-F/WATF-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer  
+- Developing with **React, Redux, Tailwind, SASS, Webpack, HTML, CSS, LESS**  
+- Experience in building scalable UI, responsive design, and performance optimization  
 
-Here are some ideas to get you started:
+### 🐍 Python Developer  
+- Proficient in **OOP**  
+- Developed trading applications for **Bybit and MEXC exchanges** based on **candlestick analysis**  
+- Experience in creating and integrating **APIs**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ DevOps & Cybersecurity  
+- Fundamentals of **web application security** (SQL injections, XSS, CSRF)  
+- Server configuration and project deployment  
+![Purple Blue Modern Pie Chart Analysis Graph](https://github.com/user-attachments/assets/b0f58ac6-bc52-49a2-8288-7be7f591eabc)
