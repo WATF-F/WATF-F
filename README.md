@@ -19,6 +19,4 @@ Hands-on experience with **API development** and integration with third-party se
 ### 🛡️ DevOps & Cybersecurity  
 - Fundamentals of **web application security** (SQL injections, XSS, CSRF)  
 - Server configuration and project deployment
-  
-- ![icons8-react-80](https://github.com/user-attachments/assets/940ad909-d32b-465d-8683-da0a7593e049)
 ![Purple Blue Modern Pie Chart Analysis Graph](https://github.com/user-attachments/assets/b0f58ac6-bc52-49a2-8288-7be7f591eabc)
