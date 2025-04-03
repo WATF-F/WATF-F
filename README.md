@@ -1,4 +1,4 @@
-![d481f3c72e283309071f79e01b05c06d](https://github.com/user-attachments/assets/df1661bd-40c6-4535-9846-17607f47839b)
+   ![d481f3c72e283309071f79e01b05c06d](https://github.com/user-attachments/assets/df1661bd-40c6-4535-9846-17607f47839b)
 ## 🚀 Frontend | Python | DevOps  
 
 ### 💻 Frontend Developer  
@@ -19,7 +19,5 @@ Hands-on experience with **API development** and integration with third-party se
 ### 🛡️ DevOps & Cybersecurity  
 - Fundamentals of **web application security** (SQL injections, XSS, CSRF)  
 - Server configuration and project deployment
- 
-![icons8-react-60](https://github.com/user-attachments/assets/200be92d-8896-4292-a7b7-e16267f94874)
 
 ![Purple Blue Modern Pie Chart Analysis Graph](https://github.com/user-attachments/assets/b0f58ac6-bc52-49a2-8288-7be7f591eabc)
