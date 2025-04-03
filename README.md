@@ -1,6 +1,7 @@
+![d481f3c72e283309071f79e01b05c06d](https://github.com/user-attachments/assets/df1661bd-40c6-4535-9846-17607f47839b)
 ## 🚀 Frontend | Python | DevOps  
 
-### 💻 Frontend Developer  
+### 💻 Frontend Developer
 - Developing with **React, Redux, Tailwind, SASS, Webpack, HTML, CSS, LESS**  
 - Experience in building scalable UI, responsive design, and performance optimization  
 
