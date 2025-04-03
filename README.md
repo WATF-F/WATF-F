@@ -20,4 +20,6 @@ Hands-on experience with **API development** and integration with third-party se
 - Fundamentals of **web application security** (SQL injections, XSS, CSRF)  
 - Server configuration and project deployment
 
+![icons8-реакция](https://github.com/user-attachments/assets/12abf9d8-18b5-4184-b6ab-027ed4e0f31e)
+
 ![Purple Blue Modern Pie Chart Analysis Graph](https://github.com/user-attachments/assets/b0f58ac6-bc52-49a2-8288-7be7f591eabc)
