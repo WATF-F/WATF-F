@@ -5,9 +5,10 @@
 - Experience in building scalable UI, responsive design, and performance optimization  
 
 ### 🐍 Python Developer  
-- Proficient in **OOP**  
-- Developed trading applications for **Bybit and MEXC exchanges** based on **candlestick analysis**  
-- Experience in creating and integrating **APIs**  
+Proficient in **OOP** and building data-driven applications.  
+Developed **trading applications** for **Bybit** and **MEXC** exchanges using **candlestick analysis** strategies.  
+Created a program from scratch to read messages from **closed Telegram channels** without using the official API.  
+Hands-on experience with **API development** and integration with third-party services.  
 
 ### 🛡️ DevOps & Cybersecurity  
 - Fundamentals of **web application security** (SQL injections, XSS, CSRF)  
