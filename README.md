@@ -21,4 +21,6 @@ Hands-on experience with **API development** and integration with third-party se
 - Server configuration and project deployment
 
 
+<i class="devicon-react-original-wordmark colored"></i>
+
 ![Purple Blue Modern Pie Chart Analysis Graph](https://github.com/user-attachments/assets/b0f58ac6-bc52-49a2-8288-7be7f591eabc)
