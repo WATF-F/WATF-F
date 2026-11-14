@@ -19,7 +19,7 @@ Hands-on experience with **API development** and integration with third-party se
 ### 🛡️ DevOps & Cybersecurity  
 - Fundamentals of **web application security** (SQL injections, XSS, CSRF)  
 - Server configuration and project deployment
-
+- Top 19 HackaPrompt 1.0
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" title="Javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="60" height="60" title="Selenium"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" title="Tailwind"/>
